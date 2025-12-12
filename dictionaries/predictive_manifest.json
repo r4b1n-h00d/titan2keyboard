@@ -1,5 +1,6 @@
 {
   "format": 1,
+  "releaseBaseUrl": "https://github.com/r4b1n-h00d/titan2keyboard/releases/download/",
   "dictionaries": [
     {
       "keymapId": "polish",
