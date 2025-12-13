@@ -5,11 +5,11 @@
     {
       "keymapId": "polish",
       "id": "pl",
-      "version": 1,
-      "fileName": "pl_ngrams_dawg_v1.bin.gz",
-      "releaseTag": "dict-2025-12",
-      "sha256": "d3b41b59f87528334bfe785eaf0667ba4bd11b1f69fad03d4ae1b4e8ec69436c",
-      "size": 6669743,
+      "version": 2,
+      "fileName": "pl_news_2024_1M_ngrams_dawg_v2.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "9DC66E53C4735118B383C92EA47588F3A28C3B80B21B2182095887D034D330C3",
+      "size": 3067772,
       "compressed": "gzip"
     }
   ]
