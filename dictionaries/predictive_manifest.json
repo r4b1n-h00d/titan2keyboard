@@ -19,7 +19,7 @@
       "fileName": "fra_mixed-typical_2012_1M.bin.gz",
       "releaseTag": "dict-2025-13",
       "sha256": "30339090ad1bf7d90f475f920eae44c855b846116db8829b8cc64341fd2d19a0",
-      "size": 2054006,
+      "size": 2201297,
       "compressed": "gzip"
     },
     {
@@ -29,7 +29,7 @@
       "fileName": "fra_mixed-typical_2012_1M.bin.gz",
       "releaseTag": "dict-2025-13",
       "sha256": "30339090ad1bf7d90f475f920eae44c855b846116db8829b8cc64341fd2d19a0",
-      "size": 2054006,
+      "size": 2201297,
       "compressed": "gzip"
     }
   ]
