@@ -11,7 +11,7 @@
       "sha256": "cee81339b565429fe9b723f36c1ade4941257bef688d8d9be4cc62465be8e9e2",
       "size": 3829579,
       "compressed": "gzip"
-    }
+    },
     {
       "keymapId": "french",
       "id": "fr",
@@ -21,7 +21,7 @@
       "sha256": "6233C8543656634957195C10C94E19CD54910D7142FB53ED4EDB5D2CF2A36065",
       "size": 2054006,
       "compressed": "gzip"
-    }
+    },
     {
       "keymapId": "french_qwerty",
       "id": "fr_qwerty",
