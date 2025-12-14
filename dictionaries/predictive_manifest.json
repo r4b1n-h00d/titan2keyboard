@@ -6,9 +6,9 @@
       "keymapId": "polish",
       "id": "pl",
       "version": 2,
-      "fileName": "pl_news_2024_1M_ngrams_dawg_v2.bin.gz",
+      "fileName": "pol_news_2024_1M.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "92b79b1f3e4f013fc64950184e63d2f39bc42af9f4b4ebddb75468e9e54d62d1",
+      "sha256": "12d9b3f9ca8ddc80ee4300e92569b8be350ff4d2906626ac19902f7066298f8f",
       "size": 4278966,
       "compressed": "gzip"
     },
@@ -16,9 +16,9 @@
       "keymapId": "french",
       "id": "fr",
       "version": 2,
-      "fileName": "fra_mixed-typical_2012_1M_ngrams_dawg_v2.bin.gz",
+      "fileName": "fra_mixed-typical_2012_1M.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "6233c8543656634957195c10c94e19cd54910d7142fb53ed4edb5d2cf2a36065",
+      "sha256": "567f5cfde9eef97d378cc282d86b0594c8f2408945125d75ef87d1911711393e",
       "size": 2054006,
       "compressed": "gzip"
     },
@@ -26,9 +26,9 @@
       "keymapId": "french_qwerty",
       "id": "fr_qwerty",
       "version": 2,
-      "fileName": "fra_mixed-typical_2012_1M_ngrams_dawg_v2.bin.gz",
+      "fileName": "fra_mixed-typical_2012_1M.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "6233c8543656634957195c10c94e19cd54910d7142fb53ed4edb5d2cf2a36065",
+      "sha256": "567f5cfde9eef97d378cc282d86b0594c8f2408945125d75ef87d1911711393e",
       "size": 2054006,
       "compressed": "gzip"
     }
