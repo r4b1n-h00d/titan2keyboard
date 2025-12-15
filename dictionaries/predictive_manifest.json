@@ -6,10 +6,10 @@
       "keymapId": "polish",
       "id": "pl",
       "version": 2,
-      "fileName": "pol_news_2024_1M.bin.gz",
+      "fileName": "pol_opensubtitles2024.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "12d9b3f9ca8ddc80ee4300e92569b8be350ff4d2906626ac19902f7066298f8f",
-      "size": 4278966,
+      "sha256": "8d6897b0704cb2e5449c3e63151898a7640db6edbb420c65dccbf4d76e23242d",
+      "size": 5629998,
       "compressed": "gzip"
     },
     {
