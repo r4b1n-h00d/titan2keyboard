@@ -23,6 +23,16 @@
       "compressed": "gzip"
     },
     {
+      "keymapId": "arabic",
+      "id": "ar",
+      "version": 2,
+      "fileName": "ar_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "a09e847532c08dbefbf415e49750d417ee2b5ce736b6bcdb1b39213b32df25cc",
+      "size": 4436627,
+      "compressed": "gzip"
+    },    
+    {
       "keymapId": "french",
       "id": "fr",
       "version": 2,
