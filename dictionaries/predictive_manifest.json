@@ -33,6 +33,16 @@
       "compressed": "gzip"
     },    
     {
+      "keymapId": "hebrew",
+      "id": "he",
+      "version": 2,
+      "fileName": "he_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "c9e52cd2c464afce65a7bb186856c3cb27a1115122acaa027bbf6e9e5443718d",
+      "size": 1532083,
+      "compressed": "gzip"
+    },    
+    {
       "keymapId": "french",
       "id": "fr",
       "version": 2,
