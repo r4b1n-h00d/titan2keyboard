@@ -13,6 +13,16 @@
       "compressed": "gzip"
     },
     {
+      "keymapId": "greek",
+      "id": "el",
+      "version": 2,
+      "fileName": "el_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "5f9fa5a60ff5dc79e2bb9eeb63b99372bb079abe289122780b7ef7531a679dd1",
+      "size": 3634554,
+      "compressed": "gzip"
+    },
+    {
       "keymapId": "french",
       "id": "fr",
       "version": 2,
