@@ -6,10 +6,10 @@
       "keymapId": "polish",
       "id": "pl",
       "version": 2,
-      "fileName": "pol_opensubtitles2024.bin.gz",
+      "fileName": "pl_opensubtitles2024.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "8d6897b0704cb2e5449c3e63151898a7640db6edbb420c65dccbf4d76e23242d",
-      "size": 5629998,
+      "sha256": "067c40f17e25d41fcc7cc6314abc24d211ce1c66960019cf2b72cdb0928a1b26",
+      "size": 5918567,
       "compressed": "gzip"
     },
     {
