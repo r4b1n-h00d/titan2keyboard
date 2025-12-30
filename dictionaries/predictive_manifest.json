@@ -23,6 +23,26 @@
       "compressed": "gzip"
     },
     {
+      "keymapId": "danish",
+      "id": "da",
+      "version": 2,
+      "fileName": "da_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "f42bf97e7efadedc4082fb4df7c12a50ccbb2fe8098931c686f20bee9c4c8aca",
+      "size": 6123005,
+      "compressed": "gzip"
+    },
+    {
+      "keymapId": "german",
+      "id": "de",
+      "version": 2,
+      "fileName": "de_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "0f4982d3436041afd0c31ceb40a31193a5740ef982346059528cac8dde9d7906",
+      "size": 6319560,
+      "compressed": "gzip"
+    },
+    {
       "keymapId": "greek",
       "id": "el",
       "version": 2,
@@ -33,23 +53,43 @@
       "compressed": "gzip"
     },
     {
+      "keymapId": "english",
+      "id": "en",
+      "version": 2,
+      "fileName": "en_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "db3b8e138bcd528fe5248102de2c5b1fece36176c599b9d2caa9872da9a37d67",
+      "size": 6081667,
+      "compressed": "gzip"
+    },
+    {
+      "keymapId": "spanish",
+      "id": "es",
+      "version": 2,
+      "fileName": "es_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "db359b1da87d1b063035f5036b041ea09d885403cff126673fb229b8a570b8bb",
+      "size": 5411839,
+      "compressed": "gzip"
+    },
+    {
       "keymapId": "french",
       "id": "fr",
       "version": 2,
-      "fileName": "fr_mixed-typical_2012_1M.bin.gz",
+      "fileName": "fr_opensubtitles2024.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "4fbf56eac8d29c77b1af38ee39454a7950978780803b35c6b3320c3615c9e7c6",
-      "size": 2212932,
+      "sha256": "af97640466f239eea769032a8f97caf2a5a1b5d05a5071ccff4f9678d8bea76c",
+      "size": 6046672,
       "compressed": "gzip"
     },
     {
       "keymapId": "french_qwerty",
       "id": "fr_qwerty",
       "version": 2,
-      "fileName": "fr_mixed-typical_2012_1M.bin.gz",
+      "fileName": "fr_opensubtitles2024.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "4fbf56eac8d29c77b1af38ee39454a7950978780803b35c6b3320c3615c9e7c6",
-      "size": 2212932,
+      "sha256": "af97640466f239eea769032a8f97caf2a5a1b5d05a5071ccff4f9678d8bea76c",
+      "size": 6046672,
       "compressed": "gzip"
     },
     {
@@ -60,6 +100,16 @@
       "releaseTag": "dict-2025-13",
       "sha256": "c9e52cd2c464afce65a7bb186856c3cb27a1115122acaa027bbf6e9e5443718d",
       "size": 1532083,
+      "compressed": "gzip"
+    },
+    {
+      "keymapId": "hungarian",
+      "id": "hu",
+      "version": 2,
+      "fileName": "hu_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "f70274ee8a84b9c78d6666b96f2d1e60ab05b61274b5bf2555e13fe7c0b81539",
+      "size": 5924570,
       "compressed": "gzip"
     },
     {
