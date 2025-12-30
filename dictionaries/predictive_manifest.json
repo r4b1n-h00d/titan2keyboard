@@ -3,13 +3,23 @@
   "releaseBaseUrl": "https://github.com/r4b1n-h00d/titan2keyboard/releases/download/",
   "dictionaries": [
     {
-      "keymapId": "polish",
-      "id": "pl",
+      "keymapId": "arabic",
+      "id": "ar",
       "version": 2,
-      "fileName": "pl_opensubtitles2024.bin.gz",
+      "fileName": "ar_opensubtitles2024.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "067c40f17e25d41fcc7cc6314abc24d211ce1c66960019cf2b72cdb0928a1b26",
-      "size": 5918567,
+      "sha256": "a09e847532c08dbefbf415e49750d417ee2b5ce736b6bcdb1b39213b32df25cc",
+      "size": 4436627,
+      "compressed": "gzip"
+    },
+    {
+      "keymapId": "czech",
+      "id": "cs",
+      "version": 2,
+      "fileName": "cs_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "39bfe37cb9af084b5839e6f15e667b7f41f739bce54903b9f922007fcd8b2b53",
+      "size": 5101943,
       "compressed": "gzip"
     },
     {
@@ -23,15 +33,25 @@
       "compressed": "gzip"
     },
     {
-      "keymapId": "arabic",
-      "id": "ar",
+      "keymapId": "french",
+      "id": "fr",
       "version": 2,
-      "fileName": "ar_opensubtitles2024.bin.gz",
+      "fileName": "fr_mixed-typical_2012_1M.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "a09e847532c08dbefbf415e49750d417ee2b5ce736b6bcdb1b39213b32df25cc",
-      "size": 4436627,
+      "sha256": "4fbf56eac8d29c77b1af38ee39454a7950978780803b35c6b3320c3615c9e7c6",
+      "size": 2212932,
       "compressed": "gzip"
-    },    
+    },
+    {
+      "keymapId": "french_qwerty",
+      "id": "fr_qwerty",
+      "version": 2,
+      "fileName": "fr_mixed-typical_2012_1M.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "4fbf56eac8d29c77b1af38ee39454a7950978780803b35c6b3320c3615c9e7c6",
+      "size": 2212932,
+      "compressed": "gzip"
+    },
     {
       "keymapId": "hebrew",
       "id": "he",
@@ -41,25 +61,45 @@
       "sha256": "c9e52cd2c464afce65a7bb186856c3cb27a1115122acaa027bbf6e9e5443718d",
       "size": 1532083,
       "compressed": "gzip"
-    },    
+    },
     {
-      "keymapId": "french",
-      "id": "fr",
+      "keymapId": "polish",
+      "id": "pl",
       "version": 2,
-      "fileName": "fr_mixed-typical_2012_1M.bin.gz",
+      "fileName": "pl_opensubtitles2024.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "4fbf56eac8d29c77b1af38ee39454a7950978780803b35c6b3320c3615c9e7c6",
-      "size": 2201297,
+      "sha256": "067c40f17e25d41fcc7cc6314abc24d211ce1c66960019cf2b72cdb0928a1b26",
+      "size": 5918567,
       "compressed": "gzip"
     },
     {
-      "keymapId": "french_qwerty",
-      "id": "fr_qwerty",
+      "keymapId": "russian",
+      "id": "ru",
       "version": 2,
-      "fileName": "fra_mixed-typical_2012_1M.bin.gz",
+      "fileName": "ru_opensubtitles2024.bin.gz",
       "releaseTag": "dict-2025-13",
-      "sha256": "4fbf56eac8d29c77b1af38ee39454a7950978780803b35c6b3320c3615c9e7c6",
-      "size": 2201297,
+      "sha256": "a8fe06ac767468154bfb07b02130d21789a63abe860a379dd8dc95a2b9ad14cf",
+      "size": 1083760,
+      "compressed": "gzip"
+    },
+    {
+      "keymapId": "slovak",
+      "id": "sk",
+      "version": 2,
+      "fileName": "sk_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "e073fc99d3a9c1f238aa484ceadce5afcc7847184ebb800e63940f5dd7795f8d",
+      "size": 5337201,
+      "compressed": "gzip"
+    },
+    {
+      "keymapId": "ukrainian",
+      "id": "uk",
+      "version": 2,
+      "fileName": "uk_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "e90e9f330cdd05c9a1e843e98131917e9e4dbff7ef437bd14c2f3a7e88897836",
+      "size": 552394,
       "compressed": "gzip"
     }
   ]
