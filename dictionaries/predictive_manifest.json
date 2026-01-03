@@ -151,6 +151,26 @@
       "sha256": "e90e9f330cdd05c9a1e843e98131917e9e4dbff7ef437bd14c2f3a7e88897836",
       "size": 552394,
       "compressed": "gzip"
+    },
+    {
+      "keymapId": "vietnamese_telex",
+      "id": "vi",
+      "version": 2,
+      "fileName": "vi_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "647d1d57d1025423c6cddf81eff258d3fc0092b45bf394e13a8f0c56e02dcccd",
+      "size": 2714272,
+      "compressed": "gzip"
+    },
+    {
+      "keymapId": "vietnamese",
+      "id": "vi",
+      "version": 2,
+      "fileName": "vi_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "647d1d57d1025423c6cddf81eff258d3fc0092b45bf394e13a8f0c56e02dcccd",
+      "size": 2714272,
+      "compressed": "gzip"
     }
   ]
 }
