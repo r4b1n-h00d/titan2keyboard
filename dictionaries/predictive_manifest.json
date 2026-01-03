@@ -73,6 +73,16 @@
       "compressed": "gzip"
     },
     {
+      "keymapId": "estonian",
+      "id": "et",
+      "version": 2,
+      "fileName": "et_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "a3ee39d4392db0f6a281c98522e37a54f23f5b0b2ccb52f04e3b88f2dcbac565",
+      "size": 5748525,
+      "compressed": "gzip"
+    },
+    {
       "keymapId": "french",
       "id": "fr",
       "version": 2,
