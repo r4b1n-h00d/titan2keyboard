@@ -123,6 +123,26 @@
       "compressed": "gzip"
     },
     {
+      "keymapId": "dutch",
+      "id": "nl",
+      "version": 2,
+      "fileName": "nl_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "a5bce51c7905ff95a4ca5c304267fc6d4c5f89732129ad7e709a8b9188785c8f",
+      "size": 6805405,
+      "compressed": "gzip"
+    },
+    {
+      "keymapId": "norwegian",
+      "id": "no",
+      "version": 2,
+      "fileName": "no_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "7a5b98b7f812ea90f292117418578879d260d14bd224eeb24b81e6b492db0945",
+      "size": 4797653,
+      "compressed": "gzip"
+    },
+    {
       "keymapId": "polish",
       "id": "pl",
       "version": 2,
@@ -153,6 +173,16 @@
       "compressed": "gzip"
     },
     {
+      "keymapId": "swedish",
+      "id": "sv",
+      "version": 2,
+      "fileName": "sv_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "52057394ab33acb4895e92ed4da776121814ed68eda909ae7e9bbb73657ee21f",
+      "size": 6573400,
+      "compressed": "gzip"
+    },
+    {
       "keymapId": "ukrainian",
       "id": "uk",
       "version": 2,
@@ -174,7 +204,7 @@
     },
     {
       "keymapId": "vietnamese",
-      "id": "vi",
+      "id": "vi_vietnamese",
       "version": 2,
       "fileName": "vi_opensubtitles2024.bin.gz",
       "releaseTag": "dict-2025-13",
