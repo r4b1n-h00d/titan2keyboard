@@ -123,6 +123,16 @@
       "compressed": "gzip"
     },
     {
+      "keymapId": "italian",
+      "id": "it",
+      "version": 2,
+      "fileName": "it_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "295534d52cfdc283419c82929b5f8b78995cfb6b2ddd3dbfbc3a02e2d49a88e5",
+      "size": 6025354,
+      "compressed": "gzip"
+    },
+    {
       "keymapId": "dutch",
       "id": "nl",
       "version": 2,
