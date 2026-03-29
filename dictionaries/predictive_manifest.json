@@ -193,6 +193,16 @@
       "compressed": "gzip"
     },
     {
+      "keymapId": "thai_kedmanee",
+      "id": "th",
+      "version": 2,
+      "fileName": "th_opensubtitles2024.bin.gz",
+      "releaseTag": "dict-2025-13",
+      "sha256": "7db1b0071d6c640ca53743036efe89a70cb59e6dfe706c3d42220c661a510145",
+      "size": 5721983,
+      "compressed": "gzip"
+    },
+    {
       "keymapId": "ukrainian",
       "id": "uk",
       "version": 2,
