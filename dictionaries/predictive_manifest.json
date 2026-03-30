@@ -193,7 +193,7 @@
       "compressed": "gzip"
     },
     {
-      "keymapId": "thai_kedmanee",
+      "keymapId": "thai",
       "id": "th",
       "version": 2,
       "fileName": "th_opensubtitles2024.bin.gz",
