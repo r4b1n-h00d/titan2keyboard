@@ -165,7 +165,7 @@
     {
       "keymapId": "polish",
       "id": "pl",
-      "version": 2,
+      "version": 3,
       "fileName": "pl_opensubtitles2024.bin.gz",
       "releaseTag": "dict-2025-13",
       "sha256": "067c40f17e25d41fcc7cc6314abc24d211ce1c66960019cf2b72cdb0928a1b26",
